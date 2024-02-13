@@ -1,0 +1,8 @@
+opencv-python
+albumentations
+tqdm
+requests
+matplotlib
+seaborn
+wandb
+h5py
